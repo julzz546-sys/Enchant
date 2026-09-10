@@ -12,12 +12,10 @@ repositories {
 }
 
 loom {
-	splitEnvironmentSourceSets()
 
 	mods {
-		"modid" {
+		"enchant" {
 			sourceSet sourceSets.main
-			sourceSet sourceSets.client
 		}
 	}
 }
