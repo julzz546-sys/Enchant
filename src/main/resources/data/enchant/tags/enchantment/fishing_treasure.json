@@ -1,8 +1,8 @@
 {
   "values": [
     "#minecraft:on_random_loot",
-    "minecraft:swift_sneak",
     "minecraft:soul_speed",
+    "minecraft:swift_sneak",
     "minecraft:wind_burst"
   ]
 }
